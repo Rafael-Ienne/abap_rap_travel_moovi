@@ -1,0 +1,6 @@
+@EndUserText.label: 'Serevice definition'
+define service Z_UI_FLIGHTS2 {
+  expose ZC_TRAVEL_MRI;
+  expose ZC_BOOKING_MRI;
+  expose ZC_BOOK_SU_MRI;
+}
